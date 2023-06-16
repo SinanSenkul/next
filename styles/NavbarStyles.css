@@ -1,0 +1,8 @@
+.navbar-main {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+    color: white;
+}
